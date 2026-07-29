@@ -12,89 +12,59 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
     - icon: globe
       text: Uprofile
-      href: https://baruch.cuny.edu
+      href: https://www.gu.se/en/about/find-staff/gardolavdietrichson
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
+      href: mailto:gard.olav.dietrichson@gu.se    
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
+      href: https://orcid.org/0009-0000-8029-8094
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=aJgKRW8AAAAJ
       target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
 #      target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
+#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#  - id: recent-posts
+#   contents: 
+#      - posts
+#      - posts/post-links.yml
+#    exclude:
+#      title: ""
+#    type: grid
+#    max-items: 3
 #    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+#    page-size: 3 #set same as max-times to remove the page number setting
+#    fields: [image, date, title, subtitle]
+#    max-description-length: 75
+#    sort: 
+#      - "date desc"
+#      - "title asc"
 ---
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+I'm a PhD Candidate at the Department of Political Science at the University of Gothenburg working on women's representation in Mixed Member Representative (MMR) systems.
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+I specialize in text-as-data approaches, with a particular focus on parliamentary language use. As part of my research I have created a complete corpus of speech activity in the New Zealand partliament between 1945 and 2025, and currently working on a proper publication of that data, alongside my PhD.
 
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
-
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
+In addition to my PhD I work on various issues tangentially related to the focus of my dissertation, and I am also attached to the TiNDe project at the University of Oslo, measuring democracy in highly democratic countries. 
 
 ## Experience
 
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
+- Researcher, University of Oslo, 2025-
+- PhD Student, University of Gothenburg, 2023-
+- RA, University of Oslo, 2022-2023
+- RA, PRIO, 2023
 
 ## Education
 
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
+- Masters in Political Science, University of Oslo, 2022
+- Bachelor in Political Science, University of Oslo, 2020
 
 :::
-
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>
