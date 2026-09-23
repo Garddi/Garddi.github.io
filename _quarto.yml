@@ -8,7 +8,7 @@ author-meta: "Dr. Gang He"
 
 website:
   title: "Gard Olav Dietrichson"
-  image: "https://quarto.org/quarto.png"
+  image: "files/images/my_photo.jpg"
   description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
@@ -17,28 +17,12 @@ website:
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
-      - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event          
       - text: Research
-        menu:
-          - text: Publications Listing  # Automatically generated from publications.xlsx
-            href: pub-listing.qmd
-          - text: Publications  # Manually curated list of publications
-            href: publications.qmd            
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
+        href: publications.qmd
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
       - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation       
+        href: outreach.qmd
 
     right: 
       - text: CV

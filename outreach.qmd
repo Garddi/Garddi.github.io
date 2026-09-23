@@ -1,0 +1,16 @@
+---
+title: "Outreach"
+subtitle: "Media Appearances and Public Engagement"
+title-block-banner: false
+---
+
+## Media Appearances
+
+- [Interview on the Norwegian Election of 2025](https://www.svd.se/a/pP31B1/fragan-som-splittrar-i-valdramat-kan-starka)
+- [Statements on the election in SVT](https://www.svt.se/nyheter/video/4d25be2fb7e08725-vilka-ar-norska-fremskrittspartiet/n464tw)
+- [Interview on The Norwegian Election in SVD](https://www.tv4.se/artikel/ymntpypJyeqt0tsUfB0yg/erna-solbergs-huvudvaerk-idag-kan-bli-ulf-kristerssons-naesta-ar)
+
+## Talks and Presentations
+
+- Presented at ECPG 2026
+- Presented at COMPTEXT 2025

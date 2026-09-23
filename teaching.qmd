@@ -1,67 +1,139 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+subtitle: "Experience and Current Activities"
 title-block-banner: false
 ---
 
 
-## Class 1
+## STV1010
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/uio_logo.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+**Fall 2021** **Fall 2022**
 
-Class 1 introduction.
-
-:::
+Seminar instructor. Overall leader of seminar instructors for the fall 2022 term. 
 
 :::
 
+:::
 
-## Class 2
+
+## STV1020
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+![](files/images/uio_logo.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+**Spring 2022**
 
-Class 2 introduction.
-
-:::
+Seminar Instructor for R labs.
 
 :::
 
+:::
 
-## Class 3
+
+## OADM2100
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+![](files/images/uio_logo.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+**Spring 2021**
 
-Class 3 introduction. 
+Seminar instructor.  
+
+:::
+
+:::
+
+## SK1214
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/gu_logo.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+**Fall 2024** **Spring 2025** **Fall 2025** **Spring 2026** **Fall 2026**
+
+Seminar instructor for three terms, lecturer for last three terms. 
 
 :::
 
 :::
 
+## SK1113
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/gu_logo.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+**Fall 2025** **Spring 2026** **Fall 2026**
+
+Seminar instructor. 
+
+:::
+
+:::
+
+## SF2324
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/gu_logo.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+**Fall 2026**
+
+Lab seminar instructor for STATA labs. 
+
+:::
+
+:::
+
+## Supervision
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/gu_logo.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+Both Bachelor and Master supervision. 
+
+:::
+
+:::

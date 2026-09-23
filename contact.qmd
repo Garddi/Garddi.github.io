@@ -6,19 +6,12 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Gard Olav Dietrichson**
 
-School
+Department of Political Science
 
-College
+University of Gothenburg
 
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
-
+E-mail: gard.olav.dietrichson@gu.se
 
 </center>
