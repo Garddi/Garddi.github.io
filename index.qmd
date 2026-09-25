@@ -13,7 +13,7 @@ about:
   image-width: 70%
   links:
     - icon: globe
-      text: Uprofile
+      text: GU Profile
       href: https://www.gu.se/en/about/find-staff/gardolavdietrichson
       target: _blank
     - icon: envelope
